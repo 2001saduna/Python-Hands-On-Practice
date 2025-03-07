@@ -1,0 +1,7 @@
+[2023-10-26 10:00:00] INFO [Server started successfully.]
+[2023-10-26 10:05:00] WARNING [Low disk space.]
+[2023-10-26 10:10:00] ERROR [Database connection failed.]
+[2023-10-26 10:15:00] INFO [User logged in.]
+[2023-10-26 10:20:00] ERROR [File not found.]
+[2023-10-26 10:25:00] WARNING [High CPU usage.]
+[2023-10-26 10:30:00] INFO [Database query successful.]
